@@ -1,0 +1,19 @@
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader.csprojAssemblyReference.cache
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader_MarkupCompile.cache
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader_MarkupCompile.lref
+C:\Users\adamp\source\repos\Subtitle Downloader\bin\Debug\netcoreapp3.1\Subtitle Downloader.exe
+C:\Users\adamp\source\repos\Subtitle Downloader\bin\Debug\netcoreapp3.1\Subtitle Downloader.deps.json
+C:\Users\adamp\source\repos\Subtitle Downloader\bin\Debug\netcoreapp3.1\Subtitle Downloader.runtimeconfig.json
+C:\Users\adamp\source\repos\Subtitle Downloader\bin\Debug\netcoreapp3.1\Subtitle Downloader.runtimeconfig.dev.json
+C:\Users\adamp\source\repos\Subtitle Downloader\bin\Debug\netcoreapp3.1\Subtitle Downloader.dll
+C:\Users\adamp\source\repos\Subtitle Downloader\bin\Debug\netcoreapp3.1\Subtitle Downloader.pdb
+C:\Users\adamp\source\repos\Subtitle Downloader\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader.g.resources
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader.AssemblyInfoInputs.cache
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader.AssemblyInfo.cs
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader.csproj.CopyComplete
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader.dll
+C:\Users\adamp\source\repos\Subtitle Downloader\obj\Debug\netcoreapp3.1\Subtitle Downloader.pdb

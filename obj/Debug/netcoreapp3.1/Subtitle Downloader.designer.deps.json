@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HtmlAgilityPack/1.11.38": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.38.0",
+            "fileVersion": "1.11.38.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HtmlAgilityPack/1.11.38": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DC1j3GzU9lBp8hSXb9eYRHiJOUS5sxjBjme/4RTYjTXlgiFCOMXkIY+rmL+BtUss1pCwCN4LaVlZ/ci/fWY+lA==",
+      "path": "htmlagilitypack/1.11.38",
+      "hashPath": "htmlagilitypack.1.11.38.nupkg.sha512"
+    }
+  }
+}
